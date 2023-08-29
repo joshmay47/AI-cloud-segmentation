@@ -31,3 +31,6 @@ Instructions for use:
 		2) processes a tc of the name: "Halong" of the year "2002", and prints updates on its current status
 		3) predicts labels for the tc, printing updates on its current status and returning the predictions and which images it didn't predict for
 		4) shows the processed images overlaid with the predicted label of the corresponding images, skipping if it didn't predict for that timeslot.
+
+################################################################
+For further information, please contact josh.may@monash.edu
